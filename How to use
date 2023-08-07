@@ -1,0 +1,8 @@
+How to use the script:
+
+Install the requests library if you haven't already: pip install requests.
+Copy the code provided above into a file with the extension .py.
+Run the script.
+Enter the wallet address or transaction hash you want to check for privacy.
+The script will make a request to the Aleo Explorer API and return the privacy level of the selected address or hash.
+The "Aleo Privacy Checker" script will help you quickly and easily assess the privacy level of your actions on the Aleo blockchain. Please use this script for personal purposes only and do not disclose any personal information or wallets to third parties.
